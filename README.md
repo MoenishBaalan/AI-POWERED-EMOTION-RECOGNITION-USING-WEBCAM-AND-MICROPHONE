@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python" />
+  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python" />
   <img src="https://img.shields.io/badge/Status-Active-success" />
   <img src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen" />
   <img src="https://img.shields.io/github/stars/MoenishBaalan/AI-POWERED-EMOTION-RECOGNITION-USING-WEBCAM-AND-MICROPHONE?style=social" />
