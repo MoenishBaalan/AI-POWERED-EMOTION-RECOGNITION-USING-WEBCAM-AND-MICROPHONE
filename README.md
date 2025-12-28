@@ -1,51 +1,84 @@
+<h1 align="center">AI-Powered Emotion Recognition</h1>
 <p align="center">
-  <b>AI-Powered Emotion Recognition using Webcam and Microphone</b><br>
-  Real-time Multimodal Emotion Detection System
+  Real-time Emotion Detection using Webcam and Microphone <br/>
+  <i>Multimodal AI | Audio-Video Fusion</i>
 </p>
 
-## 📌 Project Overview
-This project presents a real-time **AI-powered emotion recognition system** that detects human emotions by analyzing **facial expressions** through a webcam and **speech signals** through a microphone.  
-By combining both visual and audio modalities, the system improves prediction reliability compared to single-source emotion recognition systems.
+---
 
-The project demonstrates the practical application of **multimodal artificial intelligence**, real-time processing, and emotion-aware computing.
+##  Overview
+This project implements a **real-time AI-powered emotion recognition system** that analyzes  
+**facial expressions** via webcam and **speech signals** via microphone.
+
+By combining **visual and audio modalities**, the system delivers more reliable emotion predictions  
+compared to single-source emotion recognition approaches.
 
 ---
 
-## 🎯 Objectives
-- Capture real-time facial expressions using a webcam
-- Analyze speech emotions from microphone input
-- Process audio and video streams in parallel using multithreading
-- Fuse audio and video emotion results to generate a final emotion output
-- Display detected emotions in real time
+##  Objectives
+- Capture live facial expressions using a webcam  
+- Analyze speech emotions from microphone input  
+- Process audio and video streams in parallel  
+- Fuse both modalities to determine the final emotion  
+- Display emotion results in real time  
 
 ---
 
-## 🧠 System Workflow
-1. Webcam captures live video frames
-2. Facial emotions are detected using computer vision techniques
-3. Microphone records audio samples
-4. Audio features are extracted for emotion analysis
-5. Audio and video emotions are processed simultaneously
-6. Final emotion is determined using fusion logic
-7. Emotion result is displayed on screen
+##  System Workflow
+1. Webcam captures live video frames  
+2. Facial emotions are detected using computer vision  
+3. Microphone records audio samples  
+4. Audio features are extracted for emotion analysis  
+5. Audio and video are processed simultaneously  
+6. Final emotion is derived using fusion logic  
+7. Emotion output is displayed on screen  
 
 ---
 
-## 🛠 Technologies Used
-- **Python**
-- **OpenCV** – Video capture and image processing
-- **FER (Facial Emotion Recognition)** – Facial emotion detection
-- **PyAudioAnalysis** – Audio feature extraction
-- **SoundDevice** – Real-time audio recording
-- **NumPy**
-- **Multithreading**
+##  Tech Stack
+| Category | Tools |
+|--------|------|
+| Programming | Python |
+| Computer Vision | OpenCV |
+| Facial Emotion | FER |
+| Audio Processing | PyAudioAnalysis, SoundDevice |
+| Utilities | NumPy, Multithreading |
 
 ---
 
-## ⚙️ Installation
-Clone the repository and install the required dependencies:
-
+##  Installation
 ```bash
-git clone https://github.com/MoenishBaalan/AI-POWERED-EMOTION-RECOGNITION-USING-WEBCAM-AND-MICROPHONE.git
-cd AI-POWERED-EMOTION-RECOGNITION-USING-WEBCAM-AND-MICROPHONE
 pip install opencv-python fer sounddevice pyAudioAnalysis numpy
+```
+
+## Execution
+```
+python main.py
+```
+## Requirements
+
+* Webcam enabled
+* Microphone access granted
+
+##  Output
+The system displays:
+
+* Detected facial emotion with confidence score
+* Speech-based emotion analysis
+* Final fused emotion in real time
+
+##  Future Enhancements
+
+* Improve speech emotion classification accuracy
+* Integrate deep learning models for audio analysis
+* Deploy as a web-based application
+* Store emotion history for analytics and insights
+
+##  Author
+
+Moenish Baalan
+B.Tech – Information Technology
+Saveetha Engineering College
+
+<p align="center">  If you find this project interesting, feel free to star the repository ⭐ </p> 
+```
