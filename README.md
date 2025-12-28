@@ -1,7 +1,7 @@
 <h1 align="center">AI-Powered Emotion Recognition</h1>
 <p align="center">
   Real-time Emotion Detection using Webcam and Microphone <br/>
-  <i>Multimodal AI | Audio-Video Fusion</i>
+  <i><b>Multimodal AI | Audio-Video Fusion</i></b>
 </p>
 
 ---
@@ -77,8 +77,9 @@ The system displays:
 ##  Author
 
 Moenish Baalan
+
 B.Tech – Information Technology
-Saveetha Engineering College
+
+
 
 <p align="center">  If you find this project interesting, feel free to star the repository ⭐ </p> 
-```
