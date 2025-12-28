@@ -62,7 +62,7 @@ python main.py
 
 ##  Output
 
-<img width="1919" height="1079" alt="Screenshot 2025-12-20 165016" src="https://github.com/user-attachments/assets/05f043e6-4873-4ac8-b111-2c98e3990401" />
+It's available inside theassets/output.png
 
 The system displays:
 
